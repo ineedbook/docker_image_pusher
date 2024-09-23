@@ -1,4 +1,4 @@
 alpine
 nginx
 python
-activemq/CVE-2015-5254
+CVE-2015-5254
